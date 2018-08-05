@@ -1,1 +1,2 @@
-# python-challenge-hw
+# python-challenge
+Assignment 3 - Python
